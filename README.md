@@ -35,7 +35,7 @@ You need to have Node.js and npm (Node Package Manager) installed on your machin
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ShivamMishraa25/to-doList.git](https://github.com/ShivamMishraa25/to-doList.git)
+   https://github.com/RaviShankar-rs26/To-do-list.git
     ```
 2.  **Navigate into the project directory:**
     ```bash
